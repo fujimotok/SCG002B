@@ -1,6 +1,8 @@
 SCG002B i2c-lcd driver for RPi
 ====
 ## Description
+![usage](https://github.com/fujimotok/SCG002B/blob/img/img/usage.png)
+
 "SCG002B" i2c-lcd module's driver.  
 Sorry... Only validated in raspberry-pi 2.  
 Not validated other environment.  
@@ -24,6 +26,7 @@ Advanced Options > I2C > Yes
 `$ echo -n "1" > /sys/bus/i2c/drivers/SCG002B/xxx/lcd_clear`
 
 ## Setup
+![circuit](https://github.com/fujimotok/SCG002B/blob/img/img/circuit.png)
 
 ## Install
 deploy kernel module.
