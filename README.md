@@ -1,7 +1,7 @@
 SCG002B i2c-lcd driver for RPi
 ====
 ## Description
-![usage](https://github.com/fujimotok/SCG002B/blob/img/img/usage.png)
+![usage](https://github.com/fujimotok/SCG002B/blob/img/img/usage.jpg)
 
 "SCG002B" i2c-lcd module's driver.  
 Sorry... Only validated in raspberry-pi 2.  
